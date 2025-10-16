@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.2](https://github.com/antvis/f2/compare/v1.8.1...v1.8.2) (2025-08-22)
+
+**Note:** Version bump only for package @antv/f-lottie
+
+
+
+
+
+## [1.8.1](https://github.com/antvis/f2/compare/v1.8.0...v1.8.1) (2025-08-05)
+
+**Note:** Version bump only for package @antv/f-lottie
+
+
+
+
+
+# [1.8.0](https://github.com/antvis/f2/compare/v1.7.0...v1.8.0) (2025-06-09)
+
+**Note:** Version bump only for package @antv/f-lottie
+
+
+
+
+
 # [1.5.0](https://github.com/antvis/f2/compare/v1.4.1...v1.5.0) (2024-09-26)
 
 **Note:** Version bump only for package @antv/f-lottie
